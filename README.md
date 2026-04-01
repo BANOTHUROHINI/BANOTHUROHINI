@@ -1,4 +1,4 @@
-# Hi, I'm Rohini Banothu 👋
+# Hi 👋, I'm Rohini Banothu
 
 🎓 Final Year B.Tech — Computer Science & Business
 🏫 IIIT Lucknow
@@ -7,70 +7,96 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * Strong in Data Structures & Algorithms
-* Experience in Full-Stack Development (MERN)
-* Interested in AI, Backend Engineering, and System Design
+* Full-Stack Developer (MERN Stack)
+* Interested in Backend Engineering & System Design
+* Experience in Machine Learning & AI Projects
 * Open Source Contributor
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages:**
-C++ | Java | Python | JavaScript
+### 💻 Languages
 
-**Frontend:**
-React.js | HTML | CSS
+C++ • Java • Python • JavaScript
 
-**Backend:**
-Node.js | Express.js
+### 🎨 Frontend
 
-**Database:**
-MongoDB | SQL
+React.js • HTML • CSS • Vite
 
-**Tools:**
-Git | GitHub | Postman
+### ⚙️ Backend
+
+Node.js • Express.js • REST APIs
+
+### 🗄️ Database
+
+MongoDB • MySQL • SQL
+
+### 🔧 Tools & Technologies
+
+Git • GitHub • Postman • VS Code
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
-### 🎟️ Online Ticket Booking Platform
+## 🎟️ Online Ticket Booking Platform
 
 * Full-stack MERN application
 * JWT Authentication
-* Payment Integration
-* User Dashboard
+* Payment Integration (Stripe)
+* Admin Dashboard
+* User Booking Management
 
-### 🤖 Depression AI Assistant Chatbot
-
-* NLP-based chatbot
-* PHQ-9 Depression detection
-* Machine learning model
-
-### 🌫️ Air Quality Prediction System
-
-* ML-based prediction
-* Data analysis
-* Visualization
+Tech Stack: React • Node.js • Express • MongoDB
 
 ---
 
-## 🏆 Achievements
+## 🤖 Depression AI Assistant Chatbot
 
-* Codeforces Specialist
-* CodeChef 4⭐
-* Google Cloud Generative AI Certified
-* Walmart Global Tech Recognition
+* NLP-based chatbot for mental health analysis
+* PHQ-9 based depression detection
+* Machine learning prediction model
+* Explainable AI using SHAP/LIME
+
+Tech Stack: Python • NLP • Machine Learning
 
 ---
 
-## 📫 Connect With Me
+## 🌫️ Air Quality Prediction System
 
-GitHub: https://github.com/BANOTHUROHINI
-LinkedIn: https://www.linkedin.com/in/banothu-rohini-a7ab0b258/
+* Machine Learning based AQI prediction
+* Data preprocessing and visualization
+* Multiple ML algorithms comparison
+
+Tech Stack: Python • ML • Data Analysis
+
 ---
 
-⭐ Always learning, always building
+# 🏆 Achievements
+
+⭐ Codeforces Specialist
+⭐ CodeChef 4★
+⭐ Google Cloud Generative AI Certificate
+⭐ Walmart Global Tech Recognition
+
+---
+
+# 📈 GitHub Stats
+
+![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=BANOTHUROHINI\&show_icons=true\&theme=radical)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [banothurohini@gmail.com](mailto:banothurohini@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/banothu-rohini-a7ab0b258/
+💻 GitHub: https://github.com/BANOTHUROHINI
+
+---
+
+⭐ Always learning, always building 🚀
